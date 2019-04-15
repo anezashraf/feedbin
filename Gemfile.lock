@@ -331,7 +331,7 @@ GEM
     parallel (1.14.0)
     parser (2.6.0.0)
       ast (~> 2.4.0)
-    pg (0.21.0)
+    pg (1.1.4)
     powerpack (0.1.2)
     premailer (1.11.1)
       addressable
@@ -568,7 +568,7 @@ DEPENDENCIES
   nokogumbo (= 1.4.9)
   oauth
   opml_saw!
-  pg (< 1.0)
+  pg (< 2.0)
   premailer-rails
   puma
   rack-attack
